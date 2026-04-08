@@ -1,0 +1,37 @@
+{
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/AIProvider.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AIProvider.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AIProvider.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AIProvider.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AIProvider.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AIProvider.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/AppleIntelligenceProvider.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AppleIntelligenceProvider.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AppleIntelligenceProvider.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AppleIntelligenceProvider.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AppleIntelligenceProvider.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/AppleIntelligenceProvider.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/DocumentTypeDetector.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/DocumentTypeDetector.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/DocumentTypeDetector.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/DocumentTypeDetector.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/DocumentTypeDetector.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/DocumentTypeDetector.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/EntityExtractionService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/EntityExtractionService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/EntityExtractionService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/EntityExtractionService.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/EntityExtractionService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/EntityExtractionService.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/IntelligenceEngine.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/IntelligenceEngine.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/IntelligenceEngine.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/IntelligenceEngine.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/IntelligenceEngine.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/IntelligenceEngine.swiftdeps"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "/Users/salonikhobragade/Documents/Scanova/Features/Export/ExportView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Launch/LaunchView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Paywall/PaywallView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Recent/RecentView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.swiftdeps"
+  }
+}

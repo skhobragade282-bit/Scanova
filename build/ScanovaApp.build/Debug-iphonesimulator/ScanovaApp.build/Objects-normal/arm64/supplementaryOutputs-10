@@ -1,0 +1,37 @@
+{
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/RecentDocumentItem.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/SelectionState.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/StoredDocumentRecord.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Monetization/SubscriptionService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Services/DocumentIngestionService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.swiftdeps"
+  }
+}

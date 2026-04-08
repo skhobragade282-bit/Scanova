@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests-primary.dia",
+    "emit-module-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests-primary-emit-module.dia",
+    "pch" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests-primary.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Tests/ScanovaAppTests.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaAppTests.build/Objects-normal/arm64/ScanovaAppTests~partial.swiftmodule"
+  }
+}

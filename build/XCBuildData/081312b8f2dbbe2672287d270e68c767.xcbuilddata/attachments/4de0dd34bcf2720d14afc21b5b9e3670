@@ -1,0 +1,469 @@
+{
+  "" : {
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp-primary.dia",
+    "emit-module-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp-primary-emit-module.dia",
+    "pch" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp-primary.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/App/AppRouter.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppRouter.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppRouter.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppRouter.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppRouter.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppRouter.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppRouter.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppRouter.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppRouter~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/App/RootView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RootView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RootView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RootView.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RootView.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RootView.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RootView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RootView.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RootView~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/App/ScanovaApp.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ScanovaApp~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Components/Banners/FeaturePlaceholderView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FeaturePlaceholderView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FeaturePlaceholderView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FeaturePlaceholderView.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FeaturePlaceholderView.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FeaturePlaceholderView.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FeaturePlaceholderView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FeaturePlaceholderView.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FeaturePlaceholderView~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Components/Banners/WorkflowVisuals.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowVisuals.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowVisuals.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowVisuals.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowVisuals.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowVisuals.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowVisuals.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowVisuals.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowVisuals~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Components/Sheets/ActivityShareSheet.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ActivityShareSheet.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ActivityShareSheet.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ActivityShareSheet.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ActivityShareSheet.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ActivityShareSheet.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ActivityShareSheet.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ActivityShareSheet.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ActivityShareSheet~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Components/Sheets/CropImageSheet.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CropImageSheet.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CropImageSheet.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CropImageSheet.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CropImageSheet.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CropImageSheet.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CropImageSheet.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CropImageSheet.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CropImageSheet~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Components/Sheets/DocumentCameraSheet.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentCameraSheet.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentCameraSheet.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentCameraSheet.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentCameraSheet.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentCameraSheet.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentCameraSheet.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentCameraSheet.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentCameraSheet~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Components/Sheets/PDFKitPreview.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFKitPreview.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFKitPreview.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFKitPreview.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFKitPreview.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFKitPreview.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFKitPreview.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFKitPreview.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFKitPreview~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Components/Sheets/ZoomableImageSheet.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ZoomableImageSheet.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ZoomableImageSheet.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ZoomableImageSheet.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ZoomableImageSheet.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ZoomableImageSheet.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ZoomableImageSheet.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ZoomableImageSheet.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ZoomableImageSheet~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Account/AccountService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AccountService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AccountService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AccountService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AccountService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AccountService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AccountService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AccountService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AccountService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Account/DeleteAccountService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DeleteAccountService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DeleteAccountService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DeleteAccountService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DeleteAccountService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DeleteAccountService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DeleteAccountService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DeleteAccountService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DeleteAccountService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/AIProvider.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AIProvider.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AIProvider.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AIProvider.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AIProvider.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AIProvider.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AIProvider.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AIProvider.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AIProvider~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/AppleIntelligenceProvider.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppleIntelligenceProvider.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppleIntelligenceProvider.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppleIntelligenceProvider.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppleIntelligenceProvider.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppleIntelligenceProvider.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppleIntelligenceProvider.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppleIntelligenceProvider.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppleIntelligenceProvider~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/DocumentTypeDetector.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentTypeDetector.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentTypeDetector.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentTypeDetector.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentTypeDetector.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentTypeDetector.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentTypeDetector.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentTypeDetector.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentTypeDetector~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/EntityExtractionService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EntityExtractionService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EntityExtractionService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EntityExtractionService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EntityExtractionService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EntityExtractionService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EntityExtractionService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EntityExtractionService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EntityExtractionService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/IntelligenceEngine.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/IntelligenceEngine.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/IntelligenceEngine.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/IntelligenceEngine.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/IntelligenceEngine.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/IntelligenceEngine.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/IntelligenceEngine.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/IntelligenceEngine.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/IntelligenceEngine~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/OCRService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/OCRService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/OCRService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/OCRService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/OCRService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/OCRService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/OCRService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/OCRService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/OCRService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/RuleBasedAIProvider.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RuleBasedAIProvider.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RuleBasedAIProvider.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RuleBasedAIProvider.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RuleBasedAIProvider.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RuleBasedAIProvider.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RuleBasedAIProvider.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RuleBasedAIProvider.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RuleBasedAIProvider~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/SmartNamingService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SmartNamingService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SmartNamingService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SmartNamingService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SmartNamingService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SmartNamingService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SmartNamingService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SmartNamingService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SmartNamingService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Intelligence/SummaryService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SummaryService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SummaryService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SummaryService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SummaryService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SummaryService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SummaryService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SummaryService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SummaryService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/AppMode.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppMode.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppMode.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppMode.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppMode.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppMode.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppMode.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppMode.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/AppMode~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/DocumentContext.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentContext.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentContext.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentContext.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentContext.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentContext.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentContext.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentContext.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentContext~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/DocumentPage.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentPage.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentPage.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentPage.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentPage.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentPage.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentPage.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentPage.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentPage~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/DocumentType.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentType.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentType.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentType.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentType.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentType.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentType.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentType.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentType~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/EnhancementProfile.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EnhancementProfile.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EnhancementProfile.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EnhancementProfile.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EnhancementProfile.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EnhancementProfile.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EnhancementProfile.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EnhancementProfile.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/EnhancementProfile~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/ImportSource.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImportSource.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImportSource.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImportSource.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImportSource.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImportSource.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImportSource.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImportSource.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImportSource~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/RecentDocumentItem.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentDocumentItem~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/SelectionState.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SelectionState~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Models/StoredDocumentRecord.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/StoredDocumentRecord~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Monetization/SubscriptionService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/SubscriptionService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Services/DocumentIngestionService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentIngestionService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Services/DocumentLibraryService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentLibraryService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentLibraryService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentLibraryService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentLibraryService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentLibraryService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentLibraryService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentLibraryService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/DocumentLibraryService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Services/FileStorageService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FileStorageService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FileStorageService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FileStorageService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FileStorageService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FileStorageService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FileStorageService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FileStorageService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/FileStorageService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Services/ImageOptimizationService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImageOptimizationService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImageOptimizationService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImageOptimizationService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImageOptimizationService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImageOptimizationService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImageOptimizationService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImageOptimizationService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ImageOptimizationService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Services/PDFService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PDFService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Services/PermissionsService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PermissionsService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PermissionsService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PermissionsService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PermissionsService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PermissionsService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PermissionsService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PermissionsService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PermissionsService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Services/PhotoLibraryService.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PhotoLibraryService.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PhotoLibraryService.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PhotoLibraryService.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PhotoLibraryService.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PhotoLibraryService.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PhotoLibraryService.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PhotoLibraryService.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PhotoLibraryService~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Workflow/WorkflowController.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowController.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowController.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowController.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowController.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowController.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowController.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowController.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowController~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Core/Workflow/WorkflowStep.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowStep.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowStep.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowStep.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowStep.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowStep.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowStep.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowStep.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/WorkflowStep~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Capture/CaptureView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CaptureView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CaptureView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CaptureView.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CaptureView.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CaptureView.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CaptureView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CaptureView.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/CaptureView~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Export/ExportView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ExportView~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Launch/LaunchView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/LaunchView~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Paywall/PaywallView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/PaywallView~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Recent/RecentView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/RecentView~partial.swiftmodule"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Viewer/ViewerView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ViewerView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ViewerView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ViewerView.dia",
+    "index-unit-output-path" : "/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ViewerView.o",
+    "llvm-bc" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ViewerView.bc",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ViewerView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ViewerView.swiftdeps",
+    "swiftmodule" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/arm64/ViewerView~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "/Users/salonikhobragade/Documents/Scanova/Components/Banners/FeaturePlaceholderView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/FeaturePlaceholderView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/FeaturePlaceholderView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/FeaturePlaceholderView.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/FeaturePlaceholderView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/FeaturePlaceholderView.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Components/Banners/WorkflowVisuals.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/WorkflowVisuals.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/WorkflowVisuals.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/WorkflowVisuals.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/WorkflowVisuals.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/WorkflowVisuals.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Components/Sheets/ActivityShareSheet.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ActivityShareSheet.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ActivityShareSheet.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ActivityShareSheet.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ActivityShareSheet.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ActivityShareSheet.swiftdeps"
+  },
+  "/Users/salonikhobragade/Documents/Scanova/Features/Viewer/ViewerView.swift" : {
+    "const-values" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ViewerView.swiftconstvalues",
+    "dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ViewerView.d",
+    "diagnostics" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ViewerView.dia",
+    "object" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ViewerView.o",
+    "swift-dependencies" : "/Users/salonikhobragade/Documents/Scanova/build/ScanovaApp.build/Debug-iphonesimulator/ScanovaApp.build/Objects-normal/x86_64/ViewerView.swiftdeps"
+  }
+}

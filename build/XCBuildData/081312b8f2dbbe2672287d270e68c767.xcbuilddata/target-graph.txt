@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'ScanovaAppTests' in project 'ScanovaApp'
+➜ Explicit dependency on target 'ScanovaApp' in project 'ScanovaApp'
+Target 'ScanovaApp' in project 'ScanovaApp' (no dependencies)

@@ -1,0 +1,805 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		00B70F8338A6363CF953ABA5 /* ActivityShareSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEF87589117707078A2B365 /* ActivityShareSheet.swift */; };
+		01A8BFBC09D7E52449478887 /* DeleteAccountService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF762A29B1D6CD5DA58560A /* DeleteAccountService.swift */; };
+		0217F5A70000111122223333 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0217F5A60000111122223333 /* PrivacyInfo.xcprivacy */; };
+		0411D547CE8C29C9A4940FDB /* WorkflowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8115819E512ACCBF64569F81 /* WorkflowController.swift */; };
+		05E79C814BF5AB1E4D00F003 /* FeaturePlaceholderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F353B5EDD03059ED58BB50 /* FeaturePlaceholderView.swift */; };
+		0A3DB8A4D00F406B1CE73090 /* DocumentPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064DB37FB3CC17C0B25ECA03 /* DocumentPage.swift */; };
+		1142457ABA8B0F89A1F6ABE3 /* WorkflowVisuals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A84C709B925A430BE3AE378 /* WorkflowVisuals.swift */; };
+		12BAA051F4563E851763765C /* IntelligenceEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6294A8555B392F966341D05C /* IntelligenceEngine.swift */; };
+		186A8791429CA16BE3BDC585 /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CC88DD37AFB726744B6940 /* LaunchView.swift */; };
+		1A78C0CC6F210B7500A5E49C /* PhotoLibraryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7982C7A99A26EC562E3314EB /* PhotoLibraryService.swift */; };
+		1B46696CB73C1D7695B47614 /* DocumentCameraSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = C427B23266816D700B199949 /* DocumentCameraSheet.swift */; };
+		22FE15D656AD9B9297A5360B /* PermissionsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77907B83CBBFD05373A33023 /* PermissionsService.swift */; };
+		2DEEB3A872522607ADFB3B47 /* ImportSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF94AF71B7FE10F4C1A48DD /* ImportSource.swift */; };
+		367FB7420A9E440A6F5BF508 /* ExportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D858DDD23CBFA9E18BEB6B47 /* ExportView.swift */; };
+		36E591D4912FFB89114EAD02 /* RecentDocumentItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56E0C6CF34AE3B639344F0E /* RecentDocumentItem.swift */; };
+		4E6DE96176AFF056677FCBC0 /* AccountService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C1BEA21CD68200F97734834 /* AccountService.swift */; };
+		4ED398EF47AA86325FD71043 /* AppMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 609160E0C19447AF916E58F1 /* AppMode.swift */; };
+		53684DF4B6926133C296825B /* FileStorageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954B1A70F82D1E7F0251057F /* FileStorageService.swift */; };
+		5786C03A44E36FE14386837E /* ScanovaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 700DBE3FFBB26E147CD8A7CE /* ScanovaApp.swift */; };
+		62275D171FACC767A55ED430 /* DocumentType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD47FFD0F46C98AF434F4B1 /* DocumentType.swift */; };
+		6AA307E94C118BA9612409D9 /* RecentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B62356F622AA88EA5ECB2F28 /* RecentView.swift */; };
+		6AA4ED88263DA7CA5F8D205C /* OCRService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E874703B5D6D5E77003286E2 /* OCRService.swift */; };
+		6CFF2081395A359DB3148F40 /* WorkflowStep.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F18DD1EBF0A6565BADC96DE /* WorkflowStep.swift */; };
+		70801D6B78844F5B7AC28FDF /* SubscriptionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730E52CCE4CE5F75C0642AF1 /* SubscriptionService.swift */; };
+		74715CC4FD86F29619B9C9EC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D8A7E60DCF23DD982A4AF69 /* Foundation.framework */; };
+		76C146E556064BFCF00DAB32 /* EntityExtractionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19A2C18E5788F98E522837F /* EntityExtractionService.swift */; };
+		835A89CA79658E76F93F1846 /* DocumentIngestionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9322919D576C13ADBE817F3E /* DocumentIngestionService.swift */; };
+		85D35278D7B584BC33821D5E /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38126368AE1CD338369ADEC /* RootView.swift */; };
+		8871DD5A07E6A990BC3A4392 /* ImageOptimizationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C12A6FB2C838DC1B42EBFA /* ImageOptimizationService.swift */; };
+		8BE4E44CBC71BFC4786C4239 /* PaywallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D8121821890351FE28FD05 /* PaywallView.swift */; };
+		937C61FF00CD9EB96A671AAA /* StoredDocumentRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C4ABB1A0BEB9D4C6694222 /* StoredDocumentRecord.swift */; };
+		95C0548D0D2DCA1F84A405EC /* DocumentContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8346E9FE98A74B81289A601D /* DocumentContext.swift */; };
+		A1B2C3D40101010101010101 /* ScanovaAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D40101010101010105 /* ScanovaAppTests.swift */; };
+		A1B2C3D40101010101010102 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1B2C3D40101010101010106 /* XCTest.framework */; };
+		A2B3C4D5E6F7001122334455 /* PreviewInsertOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B3C4D5E6F7001122334461 /* PreviewInsertOverlay.swift */; };
+		A2B3C4D5E6F7001122334456 /* InsertPlacementSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B3C4D5E6F7001122334462 /* InsertPlacementSheet.swift */; };
+		A36AE039B34650911321EE2D /* PDFKitPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9332AF43700D9C5D92A91C1D /* PDFKitPreview.swift */; };
+		B164480180AA6B17B5CAC946 /* SmartNamingService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CDA756C567B7F0C153DB474 /* SmartNamingService.swift */; };
+		BAA2A87F1F234981D060F33F /* CropImageSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A8D1821E2DB7588A1A3BFC /* CropImageSheet.swift */; };
+		D283F91E9260B76F49A0D0B2 /* CaptureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D58E626E3E454628C5E3D4 /* CaptureView.swift */; };
+		DBD81B1677092745520B6E57 /* ViewerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24664DEE34F3E0E7D0F841F5 /* ViewerView.swift */; };
+		DD2DCFE9B3DFE9219C36AF58 /* AppRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CC2A6FC23B64DD157D6FB4 /* AppRouter.swift */; };
+		E46E559D5D7CF3F0FEEDCF3C /* DocumentTypeDetector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2494FE0099475DA97B5DD46E /* DocumentTypeDetector.swift */; };
+		E835CB4F0070AFB9FDC1F407 /* EnhancementProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C819126EBDCEE19FF97C58 /* EnhancementProfile.swift */; };
+		EE6992B7B41789A208542640 /* DocumentLibraryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD57748DED617D97CD96D971 /* DocumentLibraryService.swift */; };
+		F4DB0F747155162A60095ACB /* ZoomableImageSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC1314F2ADB8B2612BB37A3 /* ZoomableImageSheet.swift */; };
+		F78F5FD7B3A50D98DEF9D1C9 /* PDFService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F37765AEB50975117BD0F501 /* PDFService.swift */; };
+		F9621E4CBBE8A95DBA598F2C /* SelectionState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59405D9961EAB5E303DE4558 /* SelectionState.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A1B2C3D40101010101010103 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3D53611E24D579CD97207C28 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B56B0F4A3EFBDE20248EEE32;
+			remoteInfo = ScanovaApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		064DB37FB3CC17C0B25ECA03 /* DocumentPage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DocumentPage.swift; path = Core/Models/DocumentPage.swift; sourceTree = "<group>"; };
+		0217F5A60000111122223333 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		1DC1314F2ADB8B2612BB37A3 /* ZoomableImageSheet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ZoomableImageSheet.swift; path = Components/Sheets/ZoomableImageSheet.swift; sourceTree = "<group>"; };
+		20CC88DD37AFB726744B6940 /* LaunchView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LaunchView.swift; path = Features/Launch/LaunchView.swift; sourceTree = "<group>"; };
+		24664DEE34F3E0E7D0F841F5 /* ViewerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ViewerView.swift; path = Features/Viewer/ViewerView.swift; sourceTree = "<group>"; };
+		2494FE0099475DA97B5DD46E /* DocumentTypeDetector.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DocumentTypeDetector.swift; path = Core/Intelligence/DocumentTypeDetector.swift; sourceTree = "<group>"; };
+		25C12A6FB2C838DC1B42EBFA /* ImageOptimizationService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageOptimizationService.swift; path = Core/Services/ImageOptimizationService.swift; sourceTree = "<group>"; };
+		2D8A7E60DCF23DD982A4AF69 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		3A84C709B925A430BE3AE378 /* WorkflowVisuals.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WorkflowVisuals.swift; path = Components/Banners/WorkflowVisuals.swift; sourceTree = "<group>"; };
+		41A8D1821E2DB7588A1A3BFC /* CropImageSheet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropImageSheet.swift; path = Components/Sheets/CropImageSheet.swift; sourceTree = "<group>"; };
+		4EEF87589117707078A2B365 /* ActivityShareSheet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ActivityShareSheet.swift; path = Components/Sheets/ActivityShareSheet.swift; sourceTree = "<group>"; };
+		59405D9961EAB5E303DE4558 /* SelectionState.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SelectionState.swift; path = Core/Models/SelectionState.swift; sourceTree = "<group>"; };
+		609160E0C19447AF916E58F1 /* AppMode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AppMode.swift; path = Core/Models/AppMode.swift; sourceTree = "<group>"; };
+		6294A8555B392F966341D05C /* IntelligenceEngine.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IntelligenceEngine.swift; path = Core/Intelligence/IntelligenceEngine.swift; sourceTree = "<group>"; };
+		6AD47FFD0F46C98AF434F4B1 /* DocumentType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DocumentType.swift; path = Core/Models/DocumentType.swift; sourceTree = "<group>"; };
+		700DBE3FFBB26E147CD8A7CE /* ScanovaApp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScanovaApp.swift; path = App/ScanovaApp.swift; sourceTree = "<group>"; };
+		730E52CCE4CE5F75C0642AF1 /* SubscriptionService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SubscriptionService.swift; path = Core/Monetization/SubscriptionService.swift; sourceTree = "<group>"; };
+		74CC2A6FC23B64DD157D6FB4 /* AppRouter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AppRouter.swift; path = App/AppRouter.swift; sourceTree = "<group>"; };
+		77907B83CBBFD05373A33023 /* PermissionsService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PermissionsService.swift; path = Core/Services/PermissionsService.swift; sourceTree = "<group>"; };
+		7982C7A99A26EC562E3314EB /* PhotoLibraryService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhotoLibraryService.swift; path = Core/Services/PhotoLibraryService.swift; sourceTree = "<group>"; };
+		7C1BEA21CD68200F97734834 /* AccountService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AccountService.swift; path = Core/Account/AccountService.swift; sourceTree = "<group>"; };
+		8115819E512ACCBF64569F81 /* WorkflowController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WorkflowController.swift; path = Core/Workflow/WorkflowController.swift; sourceTree = "<group>"; };
+		82C819126EBDCEE19FF97C58 /* EnhancementProfile.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EnhancementProfile.swift; path = Core/Models/EnhancementProfile.swift; sourceTree = "<group>"; };
+		8346E9FE98A74B81289A601D /* DocumentContext.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DocumentContext.swift; path = Core/Models/DocumentContext.swift; sourceTree = "<group>"; };
+		8CDA756C567B7F0C153DB474 /* SmartNamingService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmartNamingService.swift; path = Core/Intelligence/SmartNamingService.swift; sourceTree = "<group>"; };
+		8F18DD1EBF0A6565BADC96DE /* WorkflowStep.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WorkflowStep.swift; path = Core/Workflow/WorkflowStep.swift; sourceTree = "<group>"; };
+		9322919D576C13ADBE817F3E /* DocumentIngestionService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DocumentIngestionService.swift; path = Core/Services/DocumentIngestionService.swift; sourceTree = "<group>"; };
+		9332AF43700D9C5D92A91C1D /* PDFKitPreview.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PDFKitPreview.swift; path = Components/Sheets/PDFKitPreview.swift; sourceTree = "<group>"; };
+		94C4ABB1A0BEB9D4C6694222 /* StoredDocumentRecord.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StoredDocumentRecord.swift; path = Core/Models/StoredDocumentRecord.swift; sourceTree = "<group>"; };
+		954B1A70F82D1E7F0251057F /* FileStorageService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FileStorageService.swift; path = Core/Services/FileStorageService.swift; sourceTree = "<group>"; };
+		96D58E626E3E454628C5E3D4 /* CaptureView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CaptureView.swift; path = Features/Capture/CaptureView.swift; sourceTree = "<group>"; };
+		A1B2C3D40101010101010105 /* ScanovaAppTests.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ScanovaAppTests.swift; sourceTree = "<group>"; };
+		A1B2C3D40101010101010106 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		A1B2C3D40101010101010107 /* ScanovaAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScanovaAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2B3C4D5E6F7001122334461 /* PreviewInsertOverlay.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PreviewInsertOverlay.swift; path = Core/Models/PreviewInsertOverlay.swift; sourceTree = "<group>"; };
+		A2B3C4D5E6F7001122334462 /* InsertPlacementSheet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InsertPlacementSheet.swift; path = Components/Sheets/InsertPlacementSheet.swift; sourceTree = "<group>"; };
+		A4D8121821890351FE28FD05 /* PaywallView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PaywallView.swift; path = Features/Paywall/PaywallView.swift; sourceTree = "<group>"; };
+		A94ED4492F86C5D9003B730C /* Scanova.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Scanova.storekit; sourceTree = "<group>"; };
+		B62356F622AA88EA5ECB2F28 /* RecentView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RecentView.swift; path = Features/Recent/RecentView.swift; sourceTree = "<group>"; };
+		BD57748DED617D97CD96D971 /* DocumentLibraryService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DocumentLibraryService.swift; path = Core/Services/DocumentLibraryService.swift; sourceTree = "<group>"; };
+		C38126368AE1CD338369ADEC /* RootView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RootView.swift; path = App/RootView.swift; sourceTree = "<group>"; };
+		C427B23266816D700B199949 /* DocumentCameraSheet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DocumentCameraSheet.swift; path = Components/Sheets/DocumentCameraSheet.swift; sourceTree = "<group>"; };
+		C56E0C6CF34AE3B639344F0E /* RecentDocumentItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RecentDocumentItem.swift; path = Core/Models/RecentDocumentItem.swift; sourceTree = "<group>"; };
+		D19A2C18E5788F98E522837F /* EntityExtractionService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EntityExtractionService.swift; path = Core/Intelligence/EntityExtractionService.swift; sourceTree = "<group>"; };
+		D1F353B5EDD03059ED58BB50 /* FeaturePlaceholderView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FeaturePlaceholderView.swift; path = Components/Banners/FeaturePlaceholderView.swift; sourceTree = "<group>"; };
+		D858DDD23CBFA9E18BEB6B47 /* ExportView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExportView.swift; path = Features/Export/ExportView.swift; sourceTree = "<group>"; };
+		E874703B5D6D5E77003286E2 /* OCRService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OCRService.swift; path = Core/Intelligence/OCRService.swift; sourceTree = "<group>"; };
+		E910D0DDF5018CA8F89F0173 /* ScanovaApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScanovaApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAF94AF71B7FE10F4C1A48DD /* ImportSource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImportSource.swift; path = Core/Models/ImportSource.swift; sourceTree = "<group>"; };
+		F37765AEB50975117BD0F501 /* PDFService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PDFService.swift; path = Core/Services/PDFService.swift; sourceTree = "<group>"; };
+		FBF762A29B1D6CD5DA58560A /* DeleteAccountService.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DeleteAccountService.swift; path = Core/Account/DeleteAccountService.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1BAF992B3992F5CC853CA086 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				74715CC4FD86F29619B9C9EC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A1B2C3D40101010101010109 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1B2C3D40101010101010102 /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1FB60170A1193B5504CD71C8 = {
+			isa = PBXGroup;
+			children = (
+				A94ED4492F86C5D9003B730C /* Scanova.storekit */,
+				0217F5A60000111122223333 /* PrivacyInfo.xcprivacy */,
+				8295B68885AB94B1C5629848 /* Products */,
+				47B47089469D3FFD893A459D /* Frameworks */,
+				B482E44AD968DC4885E0E1A1 /* App */,
+				6FEECA2DE7969A1690EC130F /* Core */,
+				AC1E8A0CF35245B0A1CF3C4C /* Features */,
+				265366BDA20FA2A68EE87EF3 /* Components */,
+				A1B2C3D40101010101010108 /* Tests */,
+			);
+			sourceTree = "<group>";
+		};
+		265366BDA20FA2A68EE87EF3 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				C091333D8030545273F554E8 /* Banners */,
+				A51D2C7E4D3CD395759BC413 /* Buttons */,
+				5A1246DF7D5D8EE8FD623BF9 /* Sheets */,
+			);
+			name = Components;
+			sourceTree = "<group>";
+		};
+		29EC604ED331B7E82C4C72F0 /* Export */ = {
+			isa = PBXGroup;
+			children = (
+				D858DDD23CBFA9E18BEB6B47 /* ExportView.swift */,
+			);
+			name = Export;
+			sourceTree = "<group>";
+		};
+		3EE211049228F5AC2BDA6FE7 /* Capture */ = {
+			isa = PBXGroup;
+			children = (
+				96D58E626E3E454628C5E3D4 /* CaptureView.swift */,
+			);
+			name = Capture;
+			sourceTree = "<group>";
+		};
+		4524DA3D54C7D142F97907CD /* Paywall */ = {
+			isa = PBXGroup;
+			children = (
+				A4D8121821890351FE28FD05 /* PaywallView.swift */,
+			);
+			name = Paywall;
+			sourceTree = "<group>";
+		};
+		47B47089469D3FFD893A459D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E2FA46706B3C691640C132D8 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		574C153C48CC1B08E9FC14DF /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				9322919D576C13ADBE817F3E /* DocumentIngestionService.swift */,
+				BD57748DED617D97CD96D971 /* DocumentLibraryService.swift */,
+				954B1A70F82D1E7F0251057F /* FileStorageService.swift */,
+				25C12A6FB2C838DC1B42EBFA /* ImageOptimizationService.swift */,
+				F37765AEB50975117BD0F501 /* PDFService.swift */,
+				77907B83CBBFD05373A33023 /* PermissionsService.swift */,
+				7982C7A99A26EC562E3314EB /* PhotoLibraryService.swift */,
+			);
+			name = Services;
+			sourceTree = "<group>";
+		};
+		5A1246DF7D5D8EE8FD623BF9 /* Sheets */ = {
+			isa = PBXGroup;
+			children = (
+				4EEF87589117707078A2B365 /* ActivityShareSheet.swift */,
+				41A8D1821E2DB7588A1A3BFC /* CropImageSheet.swift */,
+				C427B23266816D700B199949 /* DocumentCameraSheet.swift */,
+				A2B3C4D5E6F7001122334462 /* InsertPlacementSheet.swift */,
+				9332AF43700D9C5D92A91C1D /* PDFKitPreview.swift */,
+				1DC1314F2ADB8B2612BB37A3 /* ZoomableImageSheet.swift */,
+			);
+			name = Sheets;
+			sourceTree = "<group>";
+		};
+		5EAC4E2C1CB544209B804BBF /* Intelligence */ = {
+			isa = PBXGroup;
+			children = (
+				2494FE0099475DA97B5DD46E /* DocumentTypeDetector.swift */,
+				D19A2C18E5788F98E522837F /* EntityExtractionService.swift */,
+				6294A8555B392F966341D05C /* IntelligenceEngine.swift */,
+				E874703B5D6D5E77003286E2 /* OCRService.swift */,
+				8CDA756C567B7F0C153DB474 /* SmartNamingService.swift */,
+			);
+			name = Intelligence;
+			sourceTree = "<group>";
+		};
+		6FEECA2DE7969A1690EC130F /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				EB603B25E25075BC30882C38 /* Account */,
+				5EAC4E2C1CB544209B804BBF /* Intelligence */,
+				F0EAC2A8121BC0792A9565EA /* Models */,
+				CB6578A431F08F6864BB208E /* Monetization */,
+				574C153C48CC1B08E9FC14DF /* Services */,
+				FE94776978ED95C35B39DE9B /* Workflow */,
+			);
+			name = Core;
+			sourceTree = "<group>";
+		};
+		795E49AD7B6F9AB2BDFE987F /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				20CC88DD37AFB726744B6940 /* LaunchView.swift */,
+			);
+			name = Launch;
+			sourceTree = "<group>";
+		};
+		8295B68885AB94B1C5629848 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E910D0DDF5018CA8F89F0173 /* ScanovaApp.app */,
+				A1B2C3D40101010101010107 /* ScanovaAppTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A1B2C3D40101010101010108 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				A1B2C3D40101010101010105 /* ScanovaAppTests.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		A51D2C7E4D3CD395759BC413 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Buttons;
+			sourceTree = "<group>";
+		};
+		AC1E8A0CF35245B0A1CF3C4C /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				3EE211049228F5AC2BDA6FE7 /* Capture */,
+				29EC604ED331B7E82C4C72F0 /* Export */,
+				795E49AD7B6F9AB2BDFE987F /* Launch */,
+				4524DA3D54C7D142F97907CD /* Paywall */,
+				B08C1B884EA62AC2F5F63C53 /* Recent */,
+				BCBB08DA3CF4D83F0985C2E6 /* Viewer */,
+			);
+			name = Features;
+			sourceTree = "<group>";
+		};
+		B08C1B884EA62AC2F5F63C53 /* Recent */ = {
+			isa = PBXGroup;
+			children = (
+				B62356F622AA88EA5ECB2F28 /* RecentView.swift */,
+			);
+			name = Recent;
+			sourceTree = "<group>";
+		};
+		B482E44AD968DC4885E0E1A1 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				74CC2A6FC23B64DD157D6FB4 /* AppRouter.swift */,
+				C38126368AE1CD338369ADEC /* RootView.swift */,
+				700DBE3FFBB26E147CD8A7CE /* ScanovaApp.swift */,
+			);
+			name = App;
+			sourceTree = "<group>";
+		};
+		BCBB08DA3CF4D83F0985C2E6 /* Viewer */ = {
+			isa = PBXGroup;
+			children = (
+				24664DEE34F3E0E7D0F841F5 /* ViewerView.swift */,
+			);
+			name = Viewer;
+			sourceTree = "<group>";
+		};
+		C091333D8030545273F554E8 /* Banners */ = {
+			isa = PBXGroup;
+			children = (
+				D1F353B5EDD03059ED58BB50 /* FeaturePlaceholderView.swift */,
+				3A84C709B925A430BE3AE378 /* WorkflowVisuals.swift */,
+			);
+			name = Banners;
+			sourceTree = "<group>";
+		};
+		CB6578A431F08F6864BB208E /* Monetization */ = {
+			isa = PBXGroup;
+			children = (
+				730E52CCE4CE5F75C0642AF1 /* SubscriptionService.swift */,
+			);
+			name = Monetization;
+			sourceTree = "<group>";
+		};
+		E2FA46706B3C691640C132D8 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				2D8A7E60DCF23DD982A4AF69 /* Foundation.framework */,
+				A1B2C3D40101010101010106 /* XCTest.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		EB603B25E25075BC30882C38 /* Account */ = {
+			isa = PBXGroup;
+			children = (
+				7C1BEA21CD68200F97734834 /* AccountService.swift */,
+				FBF762A29B1D6CD5DA58560A /* DeleteAccountService.swift */,
+			);
+			name = Account;
+			sourceTree = "<group>";
+		};
+		F0EAC2A8121BC0792A9565EA /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				609160E0C19447AF916E58F1 /* AppMode.swift */,
+				8346E9FE98A74B81289A601D /* DocumentContext.swift */,
+				064DB37FB3CC17C0B25ECA03 /* DocumentPage.swift */,
+				6AD47FFD0F46C98AF434F4B1 /* DocumentType.swift */,
+				82C819126EBDCEE19FF97C58 /* EnhancementProfile.swift */,
+				EAF94AF71B7FE10F4C1A48DD /* ImportSource.swift */,
+				A2B3C4D5E6F7001122334461 /* PreviewInsertOverlay.swift */,
+				C56E0C6CF34AE3B639344F0E /* RecentDocumentItem.swift */,
+				59405D9961EAB5E303DE4558 /* SelectionState.swift */,
+				94C4ABB1A0BEB9D4C6694222 /* StoredDocumentRecord.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		FE94776978ED95C35B39DE9B /* Workflow */ = {
+			isa = PBXGroup;
+			children = (
+				8115819E512ACCBF64569F81 /* WorkflowController.swift */,
+				8F18DD1EBF0A6565BADC96DE /* WorkflowStep.swift */,
+			);
+			name = Workflow;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A1B2C3D4010101010101010A /* ScanovaAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A1B2C3D4010101010101010F /* Build configuration list for PBXNativeTarget "ScanovaAppTests" */;
+			buildPhases = (
+				A1B2C3D4010101010101010C /* Sources */,
+				A1B2C3D40101010101010109 /* Frameworks */,
+				A1B2C3D4010101010101010B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A1B2C3D40101010101010104 /* PBXTargetDependency */,
+			);
+			name = ScanovaAppTests;
+			productName = ScanovaAppTests;
+			productReference = A1B2C3D40101010101010107 /* ScanovaAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B56B0F4A3EFBDE20248EEE32 /* ScanovaApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0D0EA16FCDDF37C9CB9A197C /* Build configuration list for PBXNativeTarget "ScanovaApp" */;
+			buildPhases = (
+				70FBB1E63A751BF8925F7ACD /* Sources */,
+				1BAF992B3992F5CC853CA086 /* Frameworks */,
+				EE913A0B42A3E0687C061E1F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ScanovaApp;
+			productName = ScanovaApp;
+			productReference = E910D0DDF5018CA8F89F0173 /* ScanovaApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3D53611E24D579CD97207C28 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					A1B2C3D4010101010101010A = {
+						CreatedOnToolsVersion = 26.0;
+						DevelopmentTeam = 6Z7AHUWB5H;
+						ProvisioningStyle = Automatic;
+						TestTargetID = B56B0F4A3EFBDE20248EEE32;
+					};
+					B56B0F4A3EFBDE20248EEE32 = {
+						DevelopmentTeam = 6Z7AHUWB5H;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 6DA4FEFFABDBC218BB803165 /* Build configuration list for PBXProject "ScanovaApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1FB60170A1193B5504CD71C8;
+			productRefGroup = 8295B68885AB94B1C5629848 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B56B0F4A3EFBDE20248EEE32 /* ScanovaApp */,
+				A1B2C3D4010101010101010A /* ScanovaAppTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A1B2C3D4010101010101010B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE913A0B42A3E0687C061E1F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0217F5A70000111122223333 /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		70FBB1E63A751BF8925F7ACD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DD2DCFE9B3DFE9219C36AF58 /* AppRouter.swift in Sources */,
+				85D35278D7B584BC33821D5E /* RootView.swift in Sources */,
+				5786C03A44E36FE14386837E /* ScanovaApp.swift in Sources */,
+				4E6DE96176AFF056677FCBC0 /* AccountService.swift in Sources */,
+				01A8BFBC09D7E52449478887 /* DeleteAccountService.swift in Sources */,
+				E46E559D5D7CF3F0FEEDCF3C /* DocumentTypeDetector.swift in Sources */,
+				76C146E556064BFCF00DAB32 /* EntityExtractionService.swift in Sources */,
+				12BAA051F4563E851763765C /* IntelligenceEngine.swift in Sources */,
+				6AA4ED88263DA7CA5F8D205C /* OCRService.swift in Sources */,
+				B164480180AA6B17B5CAC946 /* SmartNamingService.swift in Sources */,
+				4ED398EF47AA86325FD71043 /* AppMode.swift in Sources */,
+				95C0548D0D2DCA1F84A405EC /* DocumentContext.swift in Sources */,
+				0A3DB8A4D00F406B1CE73090 /* DocumentPage.swift in Sources */,
+				62275D171FACC767A55ED430 /* DocumentType.swift in Sources */,
+				E835CB4F0070AFB9FDC1F407 /* EnhancementProfile.swift in Sources */,
+				2DEEB3A872522607ADFB3B47 /* ImportSource.swift in Sources */,
+				36E591D4912FFB89114EAD02 /* RecentDocumentItem.swift in Sources */,
+				F9621E4CBBE8A95DBA598F2C /* SelectionState.swift in Sources */,
+				937C61FF00CD9EB96A671AAA /* StoredDocumentRecord.swift in Sources */,
+				A2B3C4D5E6F7001122334455 /* PreviewInsertOverlay.swift in Sources */,
+				70801D6B78844F5B7AC28FDF /* SubscriptionService.swift in Sources */,
+				835A89CA79658E76F93F1846 /* DocumentIngestionService.swift in Sources */,
+				EE6992B7B41789A208542640 /* DocumentLibraryService.swift in Sources */,
+				53684DF4B6926133C296825B /* FileStorageService.swift in Sources */,
+				8871DD5A07E6A990BC3A4392 /* ImageOptimizationService.swift in Sources */,
+				F78F5FD7B3A50D98DEF9D1C9 /* PDFService.swift in Sources */,
+				22FE15D656AD9B9297A5360B /* PermissionsService.swift in Sources */,
+				1A78C0CC6F210B7500A5E49C /* PhotoLibraryService.swift in Sources */,
+				0411D547CE8C29C9A4940FDB /* WorkflowController.swift in Sources */,
+				6CFF2081395A359DB3148F40 /* WorkflowStep.swift in Sources */,
+				D283F91E9260B76F49A0D0B2 /* CaptureView.swift in Sources */,
+				367FB7420A9E440A6F5BF508 /* ExportView.swift in Sources */,
+				186A8791429CA16BE3BDC585 /* LaunchView.swift in Sources */,
+				8BE4E44CBC71BFC4786C4239 /* PaywallView.swift in Sources */,
+				6AA307E94C118BA9612409D9 /* RecentView.swift in Sources */,
+				DBD81B1677092745520B6E57 /* ViewerView.swift in Sources */,
+				05E79C814BF5AB1E4D00F003 /* FeaturePlaceholderView.swift in Sources */,
+				1142457ABA8B0F89A1F6ABE3 /* WorkflowVisuals.swift in Sources */,
+				00B70F8338A6363CF953ABA5 /* ActivityShareSheet.swift in Sources */,
+				BAA2A87F1F234981D060F33F /* CropImageSheet.swift in Sources */,
+				1B46696CB73C1D7695B47614 /* DocumentCameraSheet.swift in Sources */,
+				A2B3C4D5E6F7001122334456 /* InsertPlacementSheet.swift in Sources */,
+				A36AE039B34650911321EE2D /* PDFKitPreview.swift in Sources */,
+				F4DB0F747155162A60095ACB /* ZoomableImageSheet.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A1B2C3D4010101010101010C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1B2C3D40101010101010101 /* ScanovaAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A1B2C3D40101010101010104 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B56B0F4A3EFBDE20248EEE32 /* ScanovaApp */;
+			targetProxy = A1B2C3D40101010101010103 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		01D11746785320A4EE52053C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		3B9E1477A39C7504025DB860 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6Z7AHUWB5H;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Scanova;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Scan paper documents and convert them into PDFs.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Save exported document pages as images to your Photos library.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.salonikhobragade.scanova;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		43740301CE382261FC42093F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "Apple Distribution";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6Z7AHUWB5H;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Scanova;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Scan paper documents and convert them into PDFs.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Save exported document pages as images to your Photos library.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.salonikhobragade.scanova;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A1B2C3D4010101010101010D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6Z7AHUWB5H;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.salonikhobragade.scanovaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ScanovaApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ScanovaApp";
+				TEST_TARGET_NAME = ScanovaApp;
+			};
+			name = Debug;
+		};
+		A1B2C3D4010101010101010E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 6Z7AHUWB5H;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.salonikhobragade.scanovaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ScanovaApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ScanovaApp";
+				TEST_TARGET_NAME = ScanovaApp;
+			};
+			name = Release;
+		};
+		EE9008108B027289DAFA852C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0D0EA16FCDDF37C9CB9A197C /* Build configuration list for PBXNativeTarget "ScanovaApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43740301CE382261FC42093F /* Release */,
+				3B9E1477A39C7504025DB860 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6DA4FEFFABDBC218BB803165 /* Build configuration list for PBXProject "ScanovaApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				01D11746785320A4EE52053C /* Debug */,
+				EE9008108B027289DAFA852C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A1B2C3D4010101010101010F /* Build configuration list for PBXNativeTarget "ScanovaAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A1B2C3D4010101010101010E /* Release */,
+				A1B2C3D4010101010101010D /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3D53611E24D579CD97207C28 /* Project object */;
+}
